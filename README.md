@@ -1,2 +1,2 @@
 # DSJourney
-To share my DS projects as I learn it.
+To share my projects as I work towards becoming a data scientist
